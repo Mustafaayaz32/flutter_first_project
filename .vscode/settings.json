@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/ayaz/FlutterApps/first_app/linux"
+    "cmake.sourceDirectory": "/Users/ayaz/FlutterApps/first_app/linux",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }
